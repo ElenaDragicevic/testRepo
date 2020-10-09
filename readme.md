@@ -16,3 +16,4 @@ Paragraf ide kao obican text
 * Neuredjena lista 
 
 [ Link google](https://www.google.com)
+![elena](https://www.it-akademija.com/akcija/postani-i-ti/images/elena.jpg)
